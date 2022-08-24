@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "name": "Virat Kohli",
+      "username": "Kohli"
+    },
+    {
+      "id": 4,
+      "name": "Virendra Shewag",
+      "username": "Shewag"
+    },
+    {
+      "id": 5,
+      "name": "Rahul Dravid",
+      "username": "Dravid"
+    }
+  ],
+  "new": []
+}

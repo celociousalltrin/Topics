@@ -1,0 +1,19 @@
+.Navigation > a{
+    text-decoration: none;
+    justify-content: space-between;
+    margin-left: 25px;
+    color: white;
+    font-size:20px;
+}
+
+.Navigation > a:hover {
+    padding: 4px 8px;
+    background-color: yellow;
+    color: blue;
+    border-radius: 4px;
+}
+
+.Navigation {
+    background-color: black;
+    padding: 30px;
+}
